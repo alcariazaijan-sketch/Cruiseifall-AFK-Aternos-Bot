@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GalacticSMP-6LzI.aternos.me",
+    "ip": "GALACTICSMP-6dtT.aternos.me",
     "port": 61934,
     "version": "",
     "try-creative": true
@@ -14,7 +14,7 @@
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 100
     "z": 0
   },
   "utils": {
